@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liyang/CLionProjects/array_29/Solution.h
+vector
+-
+algorithm
+-
+
+C:/Users/liyang/CLionProjects/array_29/main.cpp
+iostream
+-
+vector
+-
+Solution.h
+C:/Users/liyang/CLionProjects/array_29/Solution.h
+

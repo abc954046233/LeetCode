@@ -1,0 +1,3 @@
+C:/Users/liyang/CLionProjects/array_22/cmake-build-debug/CMakeFiles/array_22.dir
+C:/Users/liyang/CLionProjects/array_22/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liyang/CLionProjects/array_22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
