@@ -22,5 +22,20 @@ public:
         }
 
         return cnt;
+
+//        方法二：
+//        bool gem[123] = {false};
+//
+//        for (auto j : J) {
+//            gem[j] = true;
+//        }
+//
+//        int cnt = 0;
+//        for (auto s : S) {
+//            if (gem[s])
+//                cnt++;
+//        }
+//
+//        return cnt;
     }
 };
